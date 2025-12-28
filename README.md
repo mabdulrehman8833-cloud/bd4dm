@@ -1,2 +1,3 @@
 # bd4dm
-Lecture examples and exercises on "Big Data for Decision Making"
+
+Lecture examples and exercises on "Machine Learning for Business Analytics"
